@@ -1,0 +1,6 @@
+{
+  "name": "بليندي — سموذي الفواكه الطبيعية",
+  "description": "متجر بليندي لسموذي الفواكه الطبيعية الطازجة بنكهات التوت والكيوي والموز والفراولة وعشرات الخلطات الصحية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
